@@ -40,7 +40,6 @@ export const PRODUCTS: FloralProduct[] = [
     '/Pink fl0wer 1.jpg',
     '/Pink fl0wer 2.jpg'
   ],
-    ],
     stems: ['Blush Heritage Roses', 'Pale Lisianthus', 'Astilbe Sprigs', 'Silver Eucalyptus'],
     dimensions: '18 to 100 Roses Selection',
     includesVase: false,
