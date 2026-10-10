@@ -150,7 +150,7 @@ export const PRODUCTS: FloralProduct[] = [
         id: 'purple',
         name: 'Purple',
         hex: '#3a0245',
-        image: '/SaveClip.App_750311924_17891990553577130_7792279543617129883_n.jpg'
+        image: 'PURPLE PURSE.jpg'
       },
       {
         id: 'red',
