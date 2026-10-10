@@ -11,7 +11,7 @@ export const StudioStory: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="aspect-[3/4] overflow-hidden border border-[#E8C7C8]/60 shadow-md">
               <img
-                src="/src/assets/images/hero_flower_arrangement_1791286563747.jpg"
+                src="/our story.jpg"
                 alt="Florist crafting bespoke bouquet"
                 className="w-full h-full object-cover filter contrast-[1.05]"
                 referrerPolicy="no-referrer"
