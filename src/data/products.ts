@@ -35,11 +35,11 @@ export const PRODUCTS: FloralProduct[] = [
     price: 260.00,
     category: 'Bespoke Bouquets',
     description: 'Fresh blush and soft pink heritage roses arranged with delicate textures in artisanal botanical paper.',
-    image: '/src/assets/images/product_blush_peony_1791286573905.jpg',
+    image: '/Pink fl0wer 1.jpg',
     images: [
-      '/src/assets/images/product_blush_peony_1791286573905.jpg',
-      '/src/assets/images/hero_flower_arrangement_1791286563747.jpg',
-      '/src/assets/images/product_plumeria_bouquet_1791456914092.jpg'
+    '/Pink fl0wer 1.jpg',
+    '/Pink fl0wer 2.jpg'
+  ],
     ],
     stems: ['Blush Heritage Roses', 'Pale Lisianthus', 'Astilbe Sprigs', 'Silver Eucalyptus'],
     dimensions: '18 to 100 Roses Selection',
@@ -119,12 +119,12 @@ export const PRODUCTS: FloralProduct[] = [
     price: 260.00,
     category: 'Bespoke Bouquets',
     description: 'Fragrant frangipani plumeria blossoms with golden-yellow centers paired with delicate sweet peas and tropical greenery.',
-    image: '/src/assets/images/product_plumeria_bouquet_1791456914092.jpg',
+    image: '/Plumeria fl0wer.jpg',
     images: [
-      '/src/assets/images/product_plumeria_bouquet_1791456914092.jpg',
-      '/src/assets/images/product_white_serenade_1791286584177.jpg',
-      '/src/assets/images/product_golden_meadow_1791286594251.jpg'
-    ],
+    '/Plumeria fl0wer.jpg',
+    '/Plumeria fl0wer 2.jpg',
+    '/Plumeria fl0wer 3.jpg'
+  ],
     stems: ['Velvety White & Gold Plumeria', 'Fragrant Sweet Peas', 'Tropical Greens', 'Scented Foliage'],
     dimensions: '18 to 100 Roses Selection',
     includesVase: false,
@@ -140,7 +140,7 @@ export const PRODUCTS: FloralProduct[] = [
     price: 260.00,
     category: 'Signature Arrangements',
     description: 'Chic designer handbag floral box arrangement, overflowing with fresh garden blooms, fragrant roses, and an elegant chain handle.',
-    image: '/SaveClip.App_750311924_17891990553577130_7792279543617129883_n.jpg',
+    image: '/PURPLE PURSE.jpg',
     images: [
       '/SaveClip.App_750311924_17891990553577130_7792279543617129883_n.jpg',
       '/SaveClip.App_728627392_17887828545577130_2514251413721250237_n.jpg',
@@ -180,11 +180,11 @@ export const PRODUCTS: FloralProduct[] = [
     price: 260.00,
     category: 'Bespoke Bouquets',
     description: 'Sublime soft peach and apricot heritage garden roses, complemented by delicate lisianthus and fresh eucalyptus in botanical wrapping.',
-    image: '/src/assets/images/pitch_bouquet_1791463119157.jpg',
+    image:'/Pitch fl0wer 1.jpg',
     images: [
-      '/src/assets/images/pitch_bouquet_1791463119157.jpg',
-      '/Pitch fl0wer 2.jpg',
-      '/src/assets/images/product_golden_meadow_1791286594251.jpg'
+      '/Pitch fl0wer 1.jpg',
+    '/Pitch fl0wer 2.jpg',
+    '/Pitch fl0wer 3.jpg'
     ],
     stems: ['Soft Peach Garden Roses', 'Apricot Lisianthus', 'Peach Ranunculus', 'Silver Eucalyptus'],
     dimensions: '18 to 100 Roses Selection',
@@ -201,11 +201,10 @@ export const PRODUCTS: FloralProduct[] = [
     price: 260.00,
     category: 'Signature Arrangements',
     description: 'Striking midnight Black Baccara roses and deep onyx blooms, hand-tied in minimalist dark silk and luxury matte botanical wrapping.',
-    image: '/src/assets/images/black_bouquet_1791463130046.jpg',
+    image: '/Black fl0wer 1.jpg',
     images: [
-      '/src/assets/images/black_bouquet_1791463130046.jpg',
-      '/src/assets/images/product_burgundy_bouquet_1791456902739.jpg',
-      '/src/assets/images/product_red_bouquet_1791456884870.jpg'
+      '/Black fl0wer 1.jpg',
+    '/Black fl0wer 2.jpg'
     ],
     stems: ['Midnight Black Baccara Roses', 'Deep Onyx Dahlias', 'Smoky Preserved Foliage', 'Dark Botanical Accents'],
     dimensions: '18 to 100 Roses Selection',
